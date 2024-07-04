@@ -26,10 +26,6 @@ The Netflix Clone Frontend project is a recreation of the Netflix user interface
 ## Installation
 
 1. Clone the repository to your local machine:
-
-    git clone https://github.com/vansh-frontend/cineplix.git
-
-2. Clone the repository to your local machine for mac and linux:
-
-   s sudo  git clone https://github.com/vansh-frontend/cineplix.git
-  
+    ```sh
+    git clone https://github.com/yourusername/cineplix.git
+    ```
