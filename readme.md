@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cinplex.netlify.app/" style="text-decoration: none;">
+    <a href="https://cinplex.netlify.app/"><strong>➥ Live Demo</strong></a>
     <div style="display: inline-block; padding: 10px 20px; font-size: 18px; font-weight: bold; color: white; background-color: #E50914; border-radius: 5px; transition: background-color 0.3s ease;">
       <button>
       Live Demo
