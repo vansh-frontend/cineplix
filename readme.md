@@ -1,4 +1,4 @@
-# Netflix Clone Frontend
+# Netflix Clone
 
 <p align="center">
   <img src="https://github.com/vansh-frontend/cineplix/assets/129588751/788c51b9-a720-4599-825e-9c516213ba88" alt="Cineplix Logo" width="150">
@@ -11,6 +11,7 @@
     </div>
   </a>
 </p>
+
 
 ## About This Project
 
