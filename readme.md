@@ -1,7 +1,8 @@
 # Netflix Clone
 
 <p align="center">
-  <img src="C:\Users\ASUS\cineplix\img\favicon.ico" alt="Cineplix Logo">
+ ![image](https://github.com/vansh-frontend/cineplix/assets/129588751/788c51b9-a720-4599-825e-9c516213ba88)
+
 </p>
 
 <p align="center">
