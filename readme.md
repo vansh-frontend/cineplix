@@ -8,6 +8,7 @@ Introducing my latest project: a Netflix-inspired platform crafted with HTML/CSS
 
 <p align="center">
     <a href="https://cinpollis.netlify.app/"><strong>➥ Netlify</strong></a>
+  <br>
       <a href="https://cinpollis.vercel.app/"><strong>➥ Vercel</strong></a>
     <div style="display: inline-block; padding: 10px 20px; font-size: 18px; font-weight: bold; color: white; background-color: #E50914; border-radius: 5px; transition: background-color 0.3s ease;">
     </div>
