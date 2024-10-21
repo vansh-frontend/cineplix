@@ -7,7 +7,7 @@ Introducing my latest project: a Netflix-inspired platform crafted with HTML/CSS
 </p>
 
 <p align="center">
-    <a href="https://cinplex.netlify.app/"><strong>➥ Live Demo</strong></a>
+    <a href="https://cinpollis.netlify.app/"><strong>➥ Live Demo</strong></a>
     <div style="display: inline-block; padding: 10px 20px; font-size: 18px; font-weight: bold; color: white; background-color: #E50914; border-radius: 5px; transition: background-color 0.3s ease;">
     </div>
   </a>
@@ -30,6 +30,6 @@ The Netflix Clone Frontend project is a recreation of the Netflix user interface
    git clone https://github.com/yourusername/cineplix
    ```
    2. Clone the repository to your local machine (for mac and linux):
-   `
+   
    sudo git clone https://github.com/yourusername/cineplix
    ```
